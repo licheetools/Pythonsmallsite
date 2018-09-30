@@ -25,6 +25,16 @@
 - [x] 学习分布式爬虫（只要是针对数据量庞大的爬取需求）、
 
 ### 与我交流
-关注微信公众号：啃饼思录 ;
-QQ： 2131247535 ;
-邮箱：2131247535@qq.com
+努力与运动兼备~~~
+
+简书主页：https://www.jianshu.com/u/f58202bc1644
+
+个人博客：http://blog.licheetools.top
+
+QQ：2810706745（啃饼小白）
+
+微信公众号：啃饼思录
+
+ ![](http://upload-images.jianshu.io/upload_images/8964398-e5729d3e50344ba3.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ 
+
